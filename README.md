@@ -1,0 +1,2 @@
+# AllDataKzHackathon
+DataHub вузов РК
